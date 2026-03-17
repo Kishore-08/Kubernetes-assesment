@@ -1,6 +1,3 @@
-Perfect — now this is clear. Based on your **actual project structure + k8s.yaml**, here’s a **precise, clean, GitHub-ready README** tailored specifically to your project 👇
-
----
 
 # 🚀 Dockerized Java Web App with Kubernetes Deployment
 
@@ -156,43 +153,3 @@ Describe pod:
 ```bash
 kubectl describe pod <pod-name>
 ```
-
----
-
-## 📌 Key Learnings
-
-* Building Java web apps using Maven
-* Creating Docker images for Java applications
-* Writing Kubernetes manifests (Deployment & Service)
-* Exposing applications using NodePort
-* Managing containerized workloads
-
----
-
-## 👨‍💻 Author
-
-Kishore
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
-
-## ⭐ Summary
-
-This is a **beginner-friendly DevOps/Kubernetes project** that covers the full flow:
-
-> Java App → Maven Build → Docker → Kubernetes Deployment 🚀
-
----
-
-If you want, I can next:
-
-* Make this **resume/project description (very impactful for interviews)**
-* Add a **simple architecture diagram**
-* Or convert this into a **Helm chart / CI-CD pipeline**
-
-Just tell me 👍
